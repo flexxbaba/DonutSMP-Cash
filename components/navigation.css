@@ -1,0 +1,28 @@
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-status-dot-elm {
+  width: 8px;
+  height: 8px;
+  animation: pulse 2s infinite;
+  box-shadow: 0 0 8px #2ecc71;
+  border-radius: var(--border-radius-full);
+  background-color: #2ecc71;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
